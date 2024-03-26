@@ -1,0 +1,9 @@
+name: crystal-verkle
+version: 0.1.0
+
+authors:
+  - Martin Verzilli <martin.verzilli@gmail.com>
+
+crystal: '>= 1.11.2'
+
+license: MIT
